@@ -1,0 +1,9 @@
+.text-trophy {
+  color: #ff5686;
+}
+.ball{
+  font-family: "Font-awesome";
+}
+.ball::before{
+  content: "\f45f";
+}
